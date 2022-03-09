@@ -13,7 +13,7 @@ html, body, #root {
     height: 100%;
 }
 body { 
-    background-color: #F8FDFF;
+    background-color: white;
 }
 button {
     background: none;
