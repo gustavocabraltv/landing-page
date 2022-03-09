@@ -6,9 +6,8 @@ function Main() {
   
 
   return (
-    <div className="App">
-     <h1>Hello Worlds</h1>
-     <Frontend>Template!!!!!</Frontend>
+    <div>
+     <Frontend>Template</Frontend>
     </div>
   )
 }
